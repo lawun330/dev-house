@@ -194,7 +194,7 @@ module.exports = [
             "Reinforcement Learning",
             "Quantum Computing",
             "Tensorflow",
-            "Octave",
+            "Data Science",
         ],
     },
 {
